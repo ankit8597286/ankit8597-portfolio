@@ -42,6 +42,15 @@ const projects = [
     live: "https://personal-finance-trackerapp.netlify.app/",
     github: "https://github.com/ankit8597286/Finance-Tracker",
   },
+  {
+    title: "AI Study Assistant",
+    description:
+      "AI-powered study assistant to help students with their learning needs and exam preparation.",
+    image: "/projects/ai-study2.jpg",
+    tech: ["JavaScript", "Next.js", "MongoDB","GrokAI API"],
+    live: "https://ai-study-manager.netlify.app/",
+    github: "https://github.com/ankit8597286/Ai-study-assistant",
+  },
 ];
 
 export default function Projects() {
